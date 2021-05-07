@@ -26,4 +26,4 @@ Improvement 1: Improved flow readability should be achieved
 
 Getting Started
 
-git clone https://github.com/2102Mule-Nick/Joshua_Cushing_Project1.git
+git clone https://github.com/2102Mule-Nick/josh_cushing_project_2.git
